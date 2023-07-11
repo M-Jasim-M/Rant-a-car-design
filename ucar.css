@@ -1,0 +1,1032 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.main1{
+    background: #F5F5F5;
+}
+.nav{
+    
+}
+.ucar{
+    color: black;
+    font-weight: 600;
+    font-size: 36px;
+    text-decoration: line-through;
+    font-family: 'Inter';
+        padding: 25px 0px 0px 70px;
+}
+.uc{
+    color:goldenrod;
+    font-size: 38px;
+    font-weight: 600;
+    text-decoration: line-through;
+}
+
+.bap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.child1{
+    width: 630px;
+    position: relative;
+    top: 50px;
+    left: 70px;
+}
+.book{
+    color: black;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+}
+.pro{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+    color: #FF9A00;
+    padding: 30px 0px;
+}
+.lore{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+    color: black;
+        padding-bottom: 59px;
+}
+.btn{
+    width: 134px;
+    padding: 20px 48px;
+    background: #FFBA52;
+border-radius: 30px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+    color: #FFFFFF;
+}
+.display{
+    display: flex;
+    
+    padding-top: 60px;
+}
+.bntg{
+    
+}
+..bntg img{
+    
+}
+.bntg1{
+    
+}
+..bntg1 img{
+    
+}
+
+.child2{
+        position: relative;
+    top: -20px;
+    left: 92px;
+   width: 570px;
+    height: 715px;
+    background: #FFBA52;
+border-radius: 200px 29px 250px;
+}
+.child2 img{
+    width: 626px;
+    position: relative;
+    top: 210px;
+    left: -127px;
+}
+
+/*  this is the second part of the  websote main2  */
+
+.main2{
+    width: 1200px;
+    margin: auto;
+    background: #FFFFFF;
+    display: flex;
+    border-radius: 30px;
+    flex-wrap: wrap;
+}
+.locat{
+    padding: 10px 25px;
+        width: 188px;
+    border-right: 2px solid #00000038;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 29px;
+    color: #232323;
+}
+.ico{
+    position: relative;
+    top: 16px;
+    left: 38px;
+}
+.loc{
+    color: #FFBA52;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+}
+.new{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 4px;
+    color: white;
+    background-color: #FFBA52;
+    border-radius:0px 30px 30px 0px;
+    border-right: none;
+}
+
+/* this is the main3 part of the website   */
+
+
+.main3{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ch1{
+    width: 550px;
+    height: 500px;
+}
+.ch1 img{
+        width: 570px;
+    position: relative;
+    top: 232px;
+    left: 0px;
+}
+
+/* this is for the second child */
+
+.ch2{
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+.best{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+    color: #CBC7C7;
+    padding-bottom: 20px;
+}
+.feel{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 66px;
+    color: #232323;
+}
+.dis0{
+    display: flex;
+        padding: 28px 0px;
+}
+.ic1{
+    padding-top: 10px;
+        display: flex;
+    width: 60px;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 50%;
+    background-color:#F4F4F4;
+}
+.ic1 img{
+    
+}
+
+.dg{
+    padding-left: 50px;
+}
+.deal{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+    color: black;
+}
+.incre{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+    color: #938F8F;
+}
+
+/* this is the section 4 of the website */
+
+.main4{
+    
+}
+.displ{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.tod{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+}
+.righ{
+    display: flex;
+}
+.one{
+    padding: 13px 0px 0px 12px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+    color: #232323;
+}
+.two{
+    padding: 25px 0px 0px 0px;
+}
+.two img{
+    
+}
+
+/* this is for the section 5 of the website  */
+
+
+.main5{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card{
+    width: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.imag{
+    
+}
+.imag img{
+    width: 362px;
+height: 143px;
+}
+.subaru{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+} 
+.sc{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+        padding: 15px 0px;
+}
+.s2{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+    color: #FF9A00;
+}
+.per{
+    color: lightgray;
+}
+
+
+/* this is for the bottom slider  */
+
+.slider{
+    width: 300px;
+    margin:auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+}
+.left{
+    
+}
+.right{
+    
+}
+
+
+/* this is for the main 6 section of the website */
+.main6{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cheie1{
+    display: flex;
+    width: 834px;
+    background-color: #FFBA52;
+    height: 334px;
+    flex-direction: row-reverse;
+    align-items: center;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.flo{
+}
+.flo img{
+           width: 280px;
+    height: 334px;
+}
+.grtext{
+   text-align: right;
+    padding-right: 20px;
+    
+}
+.mer{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+}
+.clas{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+}
+.s20{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+    color: #A93737;
+}
+
+
+.cheie2{
+    position: relative;
+    top: 41px;
+    left: 50px;
+}
+.merce{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+    color: #A93737;
+}
+.drive{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+    color: #A93737;
+}
+.limat{
+    
+}
+
+/* this is the main7 in the website  */
+.main7{
+    width: auto;
+    height: 300px;
+    background-color: black;
+    margin: auto;
+}
+
+
+/* this is the first media querry in the website  */
+
+
+
+@media(min-width: 320px){
+    .child1{
+        width: 300px;
+        position: relative;
+        top: 50px;
+        left: 0px;
+    }
+    .book{
+        font-size: 24px;
+    }
+    
+    .lore{
+        font-size: 15px;
+    }
+    
+    .btn{
+            width: 94px;
+    padding: 14px 48px;
+        font-size: 21px;
+    }
+    .bntg img{
+        width: 150px;
+    }
+    .bntg1 img{
+        width: 150px;
+    }
+    .child2{
+            border-radius: 125px 29px 116px;
+            width: 314px;
+    height: 500px;
+            position: relative;
+        top: 55px;
+        left: 0px;
+    }
+    .child2 img{
+        width: 322px;
+    position: relative;
+    top: 184px;
+        left: 0px;
+    }
+    
+    .main2{
+            width: 250px;
+        display: flex;
+        flex-wrap: wrap;
+    flex-direction: column-reverse;
+        padding-top: 10px;
+    }
+    .ch1{
+        width: 309px;
+    height: 240px;
+    }
+    
+    .ch1 img{
+        width: 306px;
+    position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    .ch2{
+            position: relative;
+    top: 20px;
+        left: 0px;
+    }
+    .best{
+        font-size: 24px;
+    }
+    .feel{
+        font-size: 24px;
+    }
+    .deal{
+        font-size: 25px;
+        
+    }
+    .incre{
+        font-size: 14px;
+    }
+    .dg{
+        padding-left: 20px;
+    }
+    .ic1 {
+        
+    }
+    .displ{
+        
+    }
+    .tod{
+        font-size: 17px;
+    }
+    .one{
+        font-size: 9px;
+    }
+    .two{
+        padding: 9px 0px 0px 0px;
+    }
+    .displ{
+        width: 320px;
+    }
+    
+    .main5{
+            width: 320px;
+        display: flex;
+        flex-direction: column;
+    }
+    .imag img{
+            width: 318px;
+    height: 143px;
+    }
+
+    .subaru{
+        font-size: 24px;
+    }
+    .sc{
+        font-size: 17px;
+    }
+    .s2{
+        font-size: 17px;
+    }
+    
+    .flo img{
+            width: 131px;
+    height: 195px;
+    }
+    .card{
+        width: 310px;
+    }
+    .cheie1{
+        display: flex;
+        flex-direction: row-reverse;
+        height: 195px;
+        width: 320px;
+    }
+    .mer{
+        font-size: 21px;
+    }
+    .clas{
+        font-size: 21px;
+    }
+    .s20{
+            font-size: 17px;
+    }
+    
+    .cheie2{
+            position: relative;
+    top: 41px;
+        left: 0px;
+    }
+    .merce {
+        font-size: 33px;
+    }
+    .drive{
+        font-size: 23px;
+    }
+}
+
+
+/* this is the media querry for 1024p */
+
+
+@media(min-width: 1024px){
+    .child1{
+        width: 300px;
+    position: relative;
+    top: 50px;
+    left: 146px;
+    }
+    
+    .child2{
+            position: relative;
+    top: 10px;
+    left: 260px;
+    }  
+    .ch2{
+            position: relative;
+    top: 20px;
+    left: 185px;
+    }
+    .displ{
+        width: 1000px;
+    }
+    .main5{
+            width: 1000px;
+        flex-direction: row;
+    }
+    
+    
+    
+    
+}
+
+
+
+
+
+
+/* this is the media querry for desktop */
+
+
+@media(min-width: 1320px){
+  
+    
+    .main1{
+    background: #F5F5F5;
+}
+.nav{
+    
+}
+.ucar{
+    color: black;
+    font-weight: 600;
+    font-size: 36px;
+    text-decoration: line-through;
+    font-family: 'Inter';
+        padding: 25px 0px 0px 70px;
+}
+.uc{
+    color:goldenrod;
+    font-size: 38px;
+    font-weight: 600;
+    text-decoration: line-through;
+}
+
+.bap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.child1{
+    width: 630px;
+    position: relative;
+    top: 50px;
+    left: 70px;
+}
+.book{
+    color: black;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+}
+.pro{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+    color: #FF9A00;
+    padding: 30px 0px;
+}
+.lore{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+    color: black;
+        padding-bottom: 59px;
+}
+.btn{
+    width: 134px;
+    padding: 20px 48px;
+    background: #FFBA52;
+border-radius: 30px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+    color: #FFFFFF;
+}
+.display{
+    display: flex;
+    
+    padding-top: 60px;
+}
+.bntg{
+    
+}
+.bntg img{
+    
+}
+.bntg1{
+    
+}
+..bntg1 img{
+    
+}
+
+.child2{
+        position: relative;
+    top: -20px;
+    left: 92px;
+   width: 570px;
+    height: 715px;
+    background: #FFBA52;
+border-radius: 200px 29px 250px;
+}
+.child2 img{
+    width: 626px;
+    position: relative;
+    top: 210px;
+    left: -127px;
+}
+
+/*  this is the second part of the  websote main2  */
+
+.main2{
+    width: 1200px;
+    margin: auto;
+    background: #FFFFFF;
+    display: flex;
+    border-radius: 30px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.locat{
+    padding: 10px 25px;
+        width: 188px;
+    border-right: 2px solid #00000038;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 29px;
+    color: #232323;
+}
+.ico{
+    position: relative;
+    top: 16px;
+    left: 38px;
+}
+.loc{
+    color: #FFBA52;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+}
+.new{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 4px;
+    color: white;
+    background-color: #FFBA52;
+    border-radius:0px 30px 30px 0px;
+    border-right: none;
+}
+
+/* this is the main3 part of the website   */
+
+
+.main3{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ch1{
+    width: 550px;
+    height: 500px;
+}
+.ch1 img{
+        width: 570px;
+    position: relative;
+    top: 232px;
+    left: 0px;
+}
+
+/* this is for the second child */
+
+.ch2{
+    position: relative;
+    top: 20px;
+    left: 60px;
+}
+.best{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+    color: #CBC7C7;
+    padding-bottom: 20px;
+}
+.feel{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 66px;
+    color: #232323;
+}
+.dis0{
+    display: flex;
+        padding: 28px 0px;
+}
+.ic1{
+    padding-top: 10px;
+        display: flex;
+    width: 60px;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 50%;
+    background-color:#F4F4F4;
+}
+.ic1 img{
+    
+}
+
+.dg{
+    padding-left: 50px;
+}
+.deal{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+    color: black;
+}
+.incre{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+    color: #938F8F;
+}
+
+/* this is the section 4 of the website */
+
+.main4{
+    
+}
+.displ{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.tod{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+}
+.righ{
+    display: flex;
+}
+.one{
+    padding: 13px 0px 0px 12px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+    color: #232323;
+}
+.two{
+    padding: 25px 0px 0px 0px;
+}
+.two img{
+    
+}
+
+/* this is for the section 5 of the website  */
+
+
+.main5{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.card{
+    width: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.imag{
+    
+}
+.imag img{
+    width: 362px;
+height: 143px;
+}
+.subaru{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+} 
+.sc{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+        padding: 15px 0px;
+}
+.s2{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 29px;
+    color: #FF9A00;
+}
+.per{
+    color: lightgray;
+}
+
+
+/* this is for the bottom slider  */
+
+.slider{
+    width: 300px;
+    margin:auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+}
+.left{
+    
+}
+.right{
+    
+}
+
+
+/* this is for the main 6 section of the website */
+.main6{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cheie1{
+    display: flex;
+    width: 834px;
+    background-color: #FFBA52;
+    height: 334px;
+    flex-direction: row-reverse;
+    align-items: center;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.flo{
+}
+.flo img{
+           width: 280px;
+    height: 334px;
+}
+.grtext{
+   text-align: right;
+    padding-right: 20px;
+    
+}
+.mer{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+}
+.clas{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+}
+.s20{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+    color: #A93737;
+}
+
+
+.cheie2{
+    position: relative;
+    top: 41px;
+    left: 50px;
+}
+.merce{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+    color: #A93737;
+}
+.drive{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+    color: #A93737;
+}
+.limat{
+    
+}
+
+/* this is the main7 in the website  */
+.main7{
+    width: auto;
+    height: 300px;
+    background-color: black;
+    margin: auto;
+}
+
+    
+    
+}
+
+
+
+
+
+
+
